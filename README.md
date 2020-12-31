@@ -77,3 +77,4 @@
 2. 源码中也提供了 gitk 的 zh_cn.po 文件，可参照上述过程制作 zh_cn.msg 文件。
 3. 因为 gitk 不支持 msgid 为空的翻译，所以要删除该行，也就是 zh_cn.msg 文件的首行。
 4. 拷贝到 $GITROOT/mingw64/share/gitk/lib/msgs/zh_cn.msg 即可。
+#1
